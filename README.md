@@ -1,3 +1,24 @@
-# one
-用 vuex 做簡單的 to-do-list，
-連結 : http://192.168.68.109:8080/
+# my-todo-list
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
